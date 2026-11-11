@@ -1,0 +1,12 @@
+{
+  "name": "render-hello",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal hello service for Render free tier verification",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
